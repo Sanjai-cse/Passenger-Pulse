@@ -1,0 +1,4 @@
+CREATE TABLE DELAY_REASON_EXT (
+    Delay_Code VARCHAR(100),
+    Description VARCHAR(250)
+);
